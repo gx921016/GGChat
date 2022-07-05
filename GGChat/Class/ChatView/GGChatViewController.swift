@@ -136,11 +136,11 @@ extension GGChatViewController:UITableViewDelegate,UITableViewDataSource{
 
 extension GGChatViewController:CharBarDelegate {
     func clickMoreBtn() {
-        let endpoint = "oss-cn-beijing.aliyuncs.com"
+        let endpoint = "******"
         var credential = OSSFederationCredentialProvider {
             var token = OSSFederationToken()
-            token.tAccessKey = "LTAI5tAU6nGBro6aohrJ5Zde"
-            token.tSecretKey = "TJ9qBAdRUgCpld8cb6pJ06HPAZdVI6"
+            token.tAccessKey = "******"
+            token.tSecretKey = "******"
             token.tToken = ""
             return token
         }
