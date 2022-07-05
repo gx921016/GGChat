@@ -1,0 +1,33 @@
+PODS:
+  - AliyunOSSiOS (2.10.11)
+  - PryntTrimmerView (4.0.2)
+  - SnapKit (5.0.1)
+  - SteviaLayout (4.7.3)
+  - YPImagePicker (4.5.0):
+    - PryntTrimmerView (~> 4.0.2)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - AliyunOSSiOS
+  - SnapKit (~> 5.0.0)
+  - YPImagePicker
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - PryntTrimmerView
+    - SnapKit
+    - SteviaLayout
+    - YPImagePicker
+  trunk:
+    - AliyunOSSiOS
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 7bc7ca588207ce536c1dffe732c3d4fe342e23cf
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  YPImagePicker: 6f410f475bd22fa8cd430495b54d4b2f15865c2d
+
+PODFILE CHECKSUM: 64a9cd87479be93e076f258e4471bafac6b6e136
+
+COCOAPODS: 1.11.2
